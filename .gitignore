@@ -1,0 +1,16 @@
+*.pyc
+*~
+__pycache__
+
+#
+#
+# by Mark, 2018-08-07
+#myvenv
+db.sqlite3
+
+# 2018-09-12 13:00
+# something wrong with m001dept/static/m001dept/css/style.css
+# /static
+
+/zzz_dbbackup
+.DS_Store
