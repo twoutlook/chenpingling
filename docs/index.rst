@@ -2,11 +2,12 @@
 Chenpingling's dashboard
 ====================
 
-* https://readthedocs.org/projects/chenpingling/
+* https://chenpingling.readthedocs.io/en/latest/
 
     This project
 
-* https://readthedocs.org/projects/2019-django21-tutotrial-note/
+* https://2019-django21-tutotrial-note.readthedocs.io/en/latest/
+
 
     My note for Django 2.1 Tutorial
 
