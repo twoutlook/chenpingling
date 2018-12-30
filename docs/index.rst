@@ -11,6 +11,11 @@ Chenpingling's dashboard
 
     My note for Django 2.1 Tutorial
 
+* https://django21-tutotrial-note.readthedocs.io/en/latest/
+
+
+    My practice for Django 2.1 Tutorial
+
 
 
 Table of Contents
