@@ -4,6 +4,8 @@ Chenpingling's dashboard
 
 * https://readthedocs.org/projects/2019-django21-tutotrial-note/
 
+    My note for Django 2.1 Tutorial
+
 
 
 Table of Contents
